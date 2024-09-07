@@ -1,0 +1,6 @@
+package com.asifsonu174.i_card;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
